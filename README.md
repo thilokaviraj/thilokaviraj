@@ -20,3 +20,9 @@
 </p>
 
 <br/><br/>
+
+<!-- # Support Me
+
+<p align="left">
+<a href="https://paypal.me/thilokaviraj"> <img src="asset/image/paypal.svg" height="50" width="210" alt="paypal" /></a>
+</p> -->
