@@ -1,91 +1,53 @@
-<a name="readme-top"></a>
-
-# Thiloka Viraj
-
-> My GitHub profile.
-
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# Credits :two_hearts:
-
-- Thiloka Viraj [@thilokaviraj](https://github.com/thilokaviraj)
-
-  > [thilokaviraj.github.io](https://thilokaviraj.github.io) | [twitter.com/thilokaviraj](https://twitter.com/thilokaviraj) | [youtube.com/@thilokaviraj](https://youtube.com/@thilokaviraj)
-
-- [Contributors](/../../graphs/contributors)
-
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# Get Involved :sparkles:
-
-Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum. View [CONTRIBUTING.md](/CONTRIBUTING.md) for information.
-
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# Issues :fire:
-
-Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
-
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# Code of Conduct :thumbsup:
-
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/CODE_OF_CONDUCT.md).
-
+<h2 align="center"> "STRANDED LIFE AMONG THE THREE WORLDS"</h2>
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# License :balance_scale:
-
-### This work is distributed under the [Do What The F\*ck You Want To Public License](https://choosealicense.com/licenses/wtfpl/) License. See [LICENSE](/LICENSE.md) for more information.
-
-### Permissions
-
-- :white_check_mark: Commercial use
-- :white_check_mark: Distribution
-- :white_check_mark: Modification
-- :no_entry: ~~Patent use~~
-- :white_check_mark: Private use
-
-### Conditions
-
-- :no_entry: ~~Disclose source~~
-- :no_entry: ~~License and copyright notice~~
-- :no_entry: ~~Network use is distribution~~
-- :no_entry: ~~Same license~~
-- :no_entry: ~~State changes~~
-
-### Limitations
-
-- :x: Liability
-- :no_entry: ~~Trademark use~~
-- :x: Warranty
-
+<h1 align="center"> 💚 Hi..! I'm Thiloka Viraj 💚 </h1>
+<h3 align="center">⭐️ Entrepreneur ⭐️ Freelancer ⭐️ Code Digger ⭐️ Dreamer ⭐️ </h3>
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-# Copyright :copyright: :heart:
-
-- Copyright © 2024 Thiloka Viraj [@thilokaviraj](https://github.com/thilokaviraj).
-- Copyright © 2024 [Contributors](/../../graphs/contributors).
-
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
+<div align="center">
+<table>
+<tr>
+<td>
+A computer programmer, entrepreneur, and freelancer. I’ve crafted innovative solutions and collaborated with diverse clients. passionate about technology and open-source nature, I thrive on turning ideas into reality. when I’m not coding, you’ll find me "CODING"..!
+</td>
+</tr>
+</table>
+</div>
+<br>
+<br>
+<br>
+<br>
+<h1> 👉 Buy me a coffee 👈 </h1>
+<table>
+<tr>
+<td>
+Whether you use my project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects.
+<br>
+<br>
+<a href="https://paypal.me/thilokaviraj"> <img src="asset/image/paypal.svg" height="40" width="auto !important;" alt="paypal" /></a>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<h1> 👉 Follow me on social 👈 </h1>
+<table>
+<tr>
+<td>
+<a href="https://twitter.com/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/x.svg" alt="thilokaviraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/linkedin.svg" alt="thilokaviraj" height="30" width="40" /></a>
+<a href="https://youtube.com/@thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/youtube.svg" alt="thilokaviraj" height="30" width="40" /></a>
+<a href="https://github.com/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/github.svg" alt="thilokaviraj" height="30" width="40" /></a>
+<a href="https://thilokaviraj.blogspot.com" target="blank"><img align="center" src="asset/image/social_media_icon/blogger.svg" alt="thilokaviraj" height="30" width="40" /></a>
+<a href="https://facebook.com/thilokaviraj" target="blank"><img align="center" src="asset/image/social_media_icon/facebook.svg" alt="thilokaviraj" height="30" width="40" /></a>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
